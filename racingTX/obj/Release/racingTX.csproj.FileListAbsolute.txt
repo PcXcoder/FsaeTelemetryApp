@@ -1,0 +1,38 @@
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\bin\Release\racingTX.exe.config
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\bin\Release\racingTX.exe
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\bin\Release\racingTX.pdb
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\bin\Release\Newtonsoft.Json.xml
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\obj\Release\racingTX.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\obj\Release\racingTX.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\obj\Release\racingTX.Form1.resources
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\obj\Release\racingTX.JsonVariablesForm.resources
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\obj\Release\racingTX.Properties.Resources.resources
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\obj\Release\racingTX.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\obj\Release\racingTX.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\obj\Release\racingTX.csproj.CopyComplete
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\obj\Release\racingTX.exe
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\obj\Release\racingTX.pdb
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\obj\Release\racingTX.csproj.Fody.CopyLocal.cache
+C:\Users\Bruno\Desktop\acerola racing\racingTX\racingTX\obj\Release\racingTX.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Bruno\Desktop\racingTX\racingTX\bin\Release\racingTX.exe.config
+C:\Users\Bruno\Desktop\racingTX\racingTX\bin\Release\racingTX.exe
+C:\Users\Bruno\Desktop\racingTX\racingTX\bin\Release\racingTX.pdb
+C:\Users\Bruno\Desktop\racingTX\racingTX\bin\Release\Newtonsoft.Json.xml
+C:\Users\Bruno\Desktop\racingTX\racingTX\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bruno\Desktop\racingTX\racingTX\obj\Release\racingTX.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\racingTX\racingTX\obj\Release\racingTX.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruno\Desktop\racingTX\racingTX\obj\Release\racingTX.Form1.resources
+C:\Users\Bruno\Desktop\racingTX\racingTX\obj\Release\racingTX.JsonVariablesForm.resources
+C:\Users\Bruno\Desktop\racingTX\racingTX\obj\Release\racingTX.Properties.Resources.resources
+C:\Users\Bruno\Desktop\racingTX\racingTX\obj\Release\racingTX.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\racingTX\racingTX\obj\Release\racingTX.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\racingTX\racingTX\obj\Release\racingTX.csproj.CopyComplete
+C:\Users\Bruno\Desktop\racingTX\racingTX\obj\Release\racingTX.exe
+C:\Users\Bruno\Desktop\racingTX\racingTX\obj\Release\racingTX.pdb
+C:\Users\Bruno\Desktop\racingTX\racingTX\obj\Release\racingTX.Form3.resources
+C:\Users\Bruno\Desktop\racingTX\racingTX\bin\Release\Costura.dll
+C:\Users\Bruno\Desktop\racingTX\racingTX\bin\Release\Newtonsoft.Json.dll
+C:\Users\Bruno\Desktop\racingTX\racingTX\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bruno\Desktop\racingTX\racingTX\bin\Release\Costura.pdb
+C:\Users\Bruno\Desktop\racingTX\racingTX\bin\Release\Costura.xml

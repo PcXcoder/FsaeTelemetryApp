@@ -1,0 +1,48 @@
+{
+    "temperatura_motor": "{dataValues1[0]}",
+    "rpm": "{dataValues1[1]}",
+    "pressao_oleo": "{dataValues1[2]}",
+    "tensao_bateria": "{dataValues1[3]}",
+    "mpu1_gyro": {
+        "X": "{dataValues1[4]}",
+        "Y": "{dataValues1[5]}",
+        "Z": "{dataValues1[6]}"
+    },
+    "mpu2_gyro": {
+        "X": "{dataValues1[7]}",
+        "Y": "{dataValues1[8]}",
+        "Z": "{dataValues1[9]}"
+    },
+    "mpu1_acele": {
+        "X": "{dataValues1[10]}",
+        "Y": "{dataValues1[11]}",
+        "Z": "{dataValues1[12]}"
+    },
+    "mpu2_acele": {
+        "X": "{dataValues1[13]}",
+        "Y": "{dataValues1[14]}",
+        "Z": "{dataValues1[15]}"
+    },
+    "potenciometros": {
+        "pot1": "{dataValues2[0]}",
+        "pot2": "{dataValues2[1]}",
+        "pot3": "{dataValues2[2]}",
+        "pot4": "{dataValues2[3]}"
+    },
+    "GPS": {
+        "X": "{dataValues2[4]}",
+        "Y": "{dataValues2[5]}",
+        "Speed": "{dataValues2[6]}",
+        "Altitude": "{dataValues2[7]}"
+    },
+    "MHPS": {
+        "MHPS1": "{dataValues2[8]}",
+        "MHPS2": "{dataValues2[9]}"
+    },
+    "MLX": {
+        "MLX1": "{dataValues2[10]}",
+        "MLX2": "{dataValues2[11]}",
+        "MLX3": "{dataValues2[12]}",
+        "MLX4": "{dataValues2[13]}"
+    }
+}
